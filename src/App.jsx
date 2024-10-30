@@ -1,12 +1,12 @@
-import CustomerReviews from "./components/CustomerReviews";
-import Footer from "./components/Footer";
-import Hero from "./components/Hero";
-import Nav from "./components/Nav";
-import PopularProducts from "./components/PopularProducts";
-import Services from "./components/Services";
-import SpecialOffer from "./components/SpecialOffer";
-import Subscribe from "./components/Subscribe";
-import SuperQuality from "./components/SuperQuality";
+import CustomerReviews from "./sections/CustomerReviews";
+import Footer from "./sections/Footer";
+import Hero from "./sections/Hero";
+import Nav from "./sections/Nav";
+import PopularProducts from "./sections/PopularProducts";
+import Services from "./sections/Services";
+import SpecialOffer from "./sections/SpecialOffer";
+import Subscribe from "./sections/Subscribe";
+import SuperQuality from "./sections/SuperQuality";
 
 const App = () => {
   return (
